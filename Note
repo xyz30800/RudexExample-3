@@ -1,0 +1,16 @@
+Middleware:
+
+Middleware is a function that take an action and depending on the actions type and the action payload or any other number of factor.
+
+Middleware can choose to let the action pass through before hitting the reducer and manipulate the action.
+
+Middleware has the ability to block modify or just let pass through actions as they created before they hit reducer.
+
+package: https://www.npmjs.com/package/redux-promise
+
+/------------------------------------------
+Axios:
+
+
+
+package: https://github.com/mzabriskie/axios/blob/master/README.md
